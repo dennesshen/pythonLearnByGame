@@ -4,6 +4,7 @@ FPS = 60
 width = 500
 height = 600
 colorOfWhite = (255, 255, 255)
+
 # 遊戲初始化 and 創建視窗
 pygame.init()
 screen = pygame.display.set_mode((width, height))
